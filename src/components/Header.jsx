@@ -8,7 +8,7 @@ function Header  () {
       <header>
         <Navbar />
         <div className='contenedor'>
-        <section className="contenido-header">
+         <section className="contenido-header">
                 <section className="textos-header">
                     <h1>Nuestra creatividad es su éxito</h1>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit, dolorum.</p>

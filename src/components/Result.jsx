@@ -21,14 +21,12 @@ function Result() {
                     <h4>+8863</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, id.</p>
                 </div>
-            </section>
-            
+            </section>            
             <section className='results-text'>
             <h4>Lorem ipsum dolor sit amet.</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet sequi nihil unde.</p>
                 <a href="Home">Ingrese aquí</a>
             </section>
-
         </div>
     </section>
   )
